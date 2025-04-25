@@ -13,6 +13,7 @@ As a customer, I want to be able to have food ordered and delivered to my house 
 ![ER Diagram](ERDiagrams.png)
 
 ## Sitemap(Updated)
+![Sitemap](Sitemap.png)
 
 ## Wireframes(Updated)
 
