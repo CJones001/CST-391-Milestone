@@ -10,7 +10,7 @@ I will be creating a Food Ordering Application, where the class object is the fo
 As a customer, I want to be able to have food ordered and delivered to my house so I can enjoy more free time to take care of my house, be with friends/family, or get work done.
 
 ## ER Diagram
-![ER Diagram](ERDiagram.png)
+![ER Diagram](ERDiagrams.png)
 
 ## Sitemap(Updated)
 
