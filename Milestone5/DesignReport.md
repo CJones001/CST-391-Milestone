@@ -37,6 +37,7 @@ I have a total of 8 API entry points. There are two for getting all of the resta
 | API and UI Successfully Interact | The API and UI are able to send request back and forth so the UI never interacts with the database or the MySQL commands. |
 
 ## Postman Documentation
+[CST-391 API Requests](https://documenter.getpostman.com/view/36500091/2sAYdcsCXR)
 
 ## Code Links
 
