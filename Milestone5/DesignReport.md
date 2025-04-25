@@ -19,6 +19,7 @@ As a customer, I want to be able to have food ordered and delivered to my house 
 ![Wireframes](Wireframes.png)
 
 ## UML Classes
+![UML Classes](UMLClasses.png)
 
 ## Risks
 The biggest risks the program can be potentially facing are class objects not loading properly, partial views not loading properly, and databases not loading properly can cause data malfunctions.
