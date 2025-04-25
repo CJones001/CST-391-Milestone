@@ -16,6 +16,7 @@ As a customer, I want to be able to have food ordered and delivered to my house 
 ![Sitemap](Sitemap.png)
 
 ## Wireframes(Updated)
+![Wireframes](Wireframes.png)
 
 ## UML Classes
 
